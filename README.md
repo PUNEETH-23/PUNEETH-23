@@ -11,13 +11,27 @@ Reach me at: puneethkumar3619@gmail.com
 - Focused on building real-world projects and improving problem-solving skills
 
 ---
-
+<div align="left">
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/nerdylua?cardType=level&theme=radical&fontFamily=&preferLogin=false" /> 
+</div>
 ## Connect with Me
-- LinkedIn: https://www.linkedin.com/in/puneeth-kumar-k-m
-- GitHub: https://github.com/PUNEETH-23
-- LeetCode: https://leetcode.com/u/PuneethkumarKM/
-- Instagram: https://instagram.com/_puneeth.km_
-- Email: puneethkumar3619@gmail.com
+<p align="left">
+  <a href="https://www.linkedin.com/in/puneeth-kumar-k-m" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://github.com/PUNEETH-23" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  </a>
+  <a href="https://leetcode.com/u/PuneethkumarKM/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="40" />
+  </a>
+  <a href="https://instagram.com/_puneeth.km_" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+  <a href="mailto:puneethkumar3619@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  </a>
+</p>
 
 ---
 
