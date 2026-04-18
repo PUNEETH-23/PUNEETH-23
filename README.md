@@ -1,4 +1,4 @@
-# <h1>Hi, I'm Puneeth</h1>
+# <h1 color='#ff00ff'>Hi, I'm Puneeth</h1>
 
 <img src="https://komarev.com/ghpvc/?username=PuneethkumarKM" alt="Profile views" />
 
