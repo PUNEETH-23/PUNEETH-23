@@ -1,8 +1,5 @@
 # Hi, I'm Puneeth
 
-Currently learning Data Structures & Algorithms and Web Development  
-Reach me at: puneethkumar3619@gmail.com  
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=PuneethkumarKM" alt="Profile views" />
