@@ -30,7 +30,7 @@
 ---
 
 ## 🔥 LeetCode Stats
-<img src="https://leetcode-badge-showcase.vercel.app/api?username=nerdylua&theme=dark&border=border&animated=false" />
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=PuneethkumarKM&theme=dark&border=border&animated=false" />
 
 ---
 
