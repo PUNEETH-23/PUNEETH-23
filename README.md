@@ -5,15 +5,8 @@ Reach me at: puneethkumar3619@gmail.com
 
 ---
 
-## About Me
-- Engineering student (Information Science)
-- Interested in Full Stack Development, Machine Learning, and Cybersecurity
-- Focused on building real-world projects and improving problem-solving skills
+<img src="https://komarev.com/ghpvc/?username=PuneethkumarKM" alt="Profile views" />
 
----
-<div align="left">
-<img src="https://awesome-github-stats.azurewebsites.net/user-stats/nerdylua?cardType=level&theme=radical&fontFamily=&preferLogin=false" /> 
-</div>
 ## Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/puneeth-kumar-k-m" target="_blank">
