@@ -26,7 +26,7 @@
 ## Tech Stack
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,firebase,git,github,linux,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,react,nodejs,express,mongodb,blender,docker,fastapi,flask,git,github,linux,vscode" />
   </a>
 </p>
 
