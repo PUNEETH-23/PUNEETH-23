@@ -18,12 +18,12 @@ I'm an Information Science student at **RVCE**, passionate about building scalab
 
 **Languages & Core:**
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=c,cpp,python,js,html,css,java,sql" /></a>
 </p>
 
 **Frameworks & Databases:**
 <p align="left">
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask" /></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,fastapi,flask,postgresql" /></a>
 </p>
 
 **Tools & Ecosystem:**
@@ -34,11 +34,9 @@ I'm an Information Science student at **RVCE**, passionate about building scalab
 ---
 
 ### Featured Projects
-
-*   **[Neuro-Supportive AI Agent](#)** - An agentic AI application built with Flask, designed to provide educational screening and supportive training modules.
-*   **[fodVision](#)** - A computer vision pipeline focusing on Foreign Object Debris (FOD) detection and fog density calculation for autonomous systems.
+*   **[FogVision](#)** - A computer vision pipeline focusing on Foreign Object Debris (FOD) detection and fog density calculation for autonomous systems.
 *   **[BiteSense](#)** - A modern, AI-driven health and food recommendation mobile application interface.
-*   **[Crowdsourced Bus Tracking](#)** - An autonomous, IoT-based public transport tracking solution utilizing MQTT and permanent QR codes.
+*   **[BusKarBhai](#)** - An autonomous, IoT-based public transport tracking solution utilizing MQTT and permanent QR codes.
 
 *(Note: Click the project titles to view the repositories!)*
 
